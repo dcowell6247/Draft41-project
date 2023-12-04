@@ -1,1 +1,1 @@
-# Draft41-project
+Hello! Welcome to my repository for my Draft41 term project. For my project, I chose to reverse engineer a jaw puller tool. Within this repository you will find all of the model and assembly files, as well as the CAD drawings related to each. Thanks for looking!
